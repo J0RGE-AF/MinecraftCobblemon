@@ -8,20 +8,21 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 9,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 13,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 13,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 1,
+      "normal": 2,
       "steel": 1,
-      "rock": 1
+      "rock": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wingull": 1,
@@ -30,7 +31,10 @@
       "cobblemon:mareep": 1,
       "cobblemon:patrat": 1,
       "cobblemon:deerling": 1,
-      "cobblemon:budew": 1
+      "cobblemon:budew": 1,
+      "cobblemon:meowth": 1,
+      "cobblemon:ledyba": 1,
+      "cobblemon:gossifleur": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
@@ -38,6 +42,12 @@
       ],
       "cobblemon:aron": [
         "male"
+      ],
+      "cobblemon:monferno": [
+        "male"
+      ],
+      "cobblemon:starly": [
+        "female"
       ]
     }
   }
