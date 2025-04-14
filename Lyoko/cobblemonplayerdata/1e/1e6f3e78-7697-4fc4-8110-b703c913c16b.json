@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 13,
+    "totalBattleVictoryCount": 14,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 13,
+    "totalPvWBattleVictoryCount": 14,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -34,7 +34,8 @@
       "cobblemon:budew": 1,
       "cobblemon:meowth": 1,
       "cobblemon:ledyba": 1,
-      "cobblemon:gossifleur": 1
+      "cobblemon:gossifleur": 1,
+      "cobblemon:pachirisu": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
