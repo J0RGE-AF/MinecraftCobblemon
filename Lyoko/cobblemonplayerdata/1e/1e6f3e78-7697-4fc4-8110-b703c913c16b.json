@@ -8,34 +8,39 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 14,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 20,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 14,
+    "totalPvWBattleVictoryCount": 20,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "steel": 1,
       "rock": 1,
-      "flying": 1
+      "flying": 1,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wingull": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:cottonee": 1,
       "cobblemon:mareep": 1,
-      "cobblemon:patrat": 1,
+      "cobblemon:patrat": 2,
       "cobblemon:deerling": 1,
       "cobblemon:budew": 1,
       "cobblemon:meowth": 1,
       "cobblemon:ledyba": 1,
       "cobblemon:gossifleur": 1,
-      "cobblemon:pachirisu": 1
+      "cobblemon:pachirisu": 1,
+      "cobblemon:drowzee": 1,
+      "cobblemon:pidove": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:snubbull": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
@@ -48,6 +53,13 @@
         "male"
       ],
       "cobblemon:starly": [
+        "female"
+      ],
+      "cobblemon:maschiff": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:staravia": [
         "female"
       ]
     }
