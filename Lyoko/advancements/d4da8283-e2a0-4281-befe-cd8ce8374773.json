@@ -490,6 +490,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-15 12:13:09 +0200",
       "bread": "2025-04-12 02:47:39 +0200",
+      "golden_apple": "2025-04-16 22:20:18 +0200",
       "cooked_mutton": "2025-04-15 17:41:08 +0200",
       "sweet_berries": "2025-04-14 16:20:27 +0200",
       "cooked_beef": "2025-04-12 02:21:25 +0200"
@@ -3732,6 +3733,78 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-04-16 17:16:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-04-16 22:29:26 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eject_button": {
+    "criteria": {
+      "has_piston": "2025-04-16 22:52:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-16 22:53:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-16 22:53:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-16 22:53:30 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/hard_stone": {
+    "criteria": {
+      "has_deepslate": "2025-04-16 22:58:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-16 23:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-16 23:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-16 23:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-16 23:04:37 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/room_service": {
+    "criteria": {
+      "has_cart": "2025-04-16 23:04:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-16 23:04:37 +0200"
     },
     "done": true
   },
