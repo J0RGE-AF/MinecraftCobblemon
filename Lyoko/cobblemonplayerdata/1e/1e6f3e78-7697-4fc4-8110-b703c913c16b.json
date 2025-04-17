@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 32,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 32,
+    "totalPvWBattleVictoryCount": 35,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -39,13 +39,14 @@
       "cobblemon:pachirisu": 1,
       "cobblemon:drowzee": 1,
       "cobblemon:pidove": 1,
-      "cobblemon:vivillon": 1,
+      "cobblemon:vivillon": 2,
       "cobblemon:snubbull": 2,
-      "cobblemon:wooloo": 1,
+      "cobblemon:wooloo": 2,
       "cobblemon:sentret": 1,
       "cobblemon:zigzagoon": 1,
       "cobblemon:purrloin": 1,
-      "cobblemon:combee": 1
+      "cobblemon:combee": 1,
+      "cobblemon:gimmighoul": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
