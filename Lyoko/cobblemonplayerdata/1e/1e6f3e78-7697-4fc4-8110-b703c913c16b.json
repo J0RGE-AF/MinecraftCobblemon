@@ -11,10 +11,10 @@
     "totalCaptureCount": 4,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 49,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 65,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 49,
+    "totalPvWBattleVictoryCount": 65,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -34,18 +34,18 @@
       "cobblemon:deerling": 1,
       "cobblemon:budew": 2,
       "cobblemon:meowth": 2,
-      "cobblemon:ledyba": 2,
+      "cobblemon:ledyba": 4,
       "cobblemon:gossifleur": 3,
       "cobblemon:pachirisu": 1,
       "cobblemon:drowzee": 1,
-      "cobblemon:pidove": 1,
+      "cobblemon:pidove": 2,
       "cobblemon:vivillon": 2,
       "cobblemon:snubbull": 2,
       "cobblemon:wooloo": 3,
       "cobblemon:sentret": 2,
-      "cobblemon:zigzagoon": 2,
+      "cobblemon:zigzagoon": 3,
       "cobblemon:purrloin": 1,
-      "cobblemon:combee": 1,
+      "cobblemon:combee": 2,
       "cobblemon:gimmighoul": 1,
       "cobblemon:rookidee": 1,
       "cobblemon:butterfree": 1,
@@ -53,7 +53,17 @@
       "cobblemon:eldegoss": 1,
       "cobblemon:durant": 1,
       "cobblemon:cutiefly": 1,
-      "cobblemon:buneary": 1
+      "cobblemon:buneary": 1,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:mankey": 2,
+      "cobblemon:machop": 1,
+      "cobblemon:weedle": 1,
+      "cobblemon:taillow": 1,
+      "cobblemon:petilil": 1,
+      "cobblemon:tandemaus": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:furret": 1,
+      "cobblemon:lechonk": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
@@ -74,6 +84,9 @@
       ],
       "cobblemon:staravia": [
         "female"
+      ],
+      "cobblemon:infernape": [
+        "male"
       ]
     }
   }
