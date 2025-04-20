@@ -468,6 +468,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-13 22:35:15 +0200",
       "minecraft:piglin": "2025-04-18 23:34:17 +0200",
+      "minecraft:enderman": "2025-04-20 20:11:07 +0200",
       "minecraft:witch": "2025-04-20 02:05:51 +0200",
       "minecraft:spider": "2025-04-13 22:50:57 +0200",
       "minecraft:zombie": "2025-04-13 20:49:08 +0200",
@@ -3323,7 +3324,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-04-17 17:26:55 +0200"
+      "minecraft:cow": "2025-04-17 17:26:55 +0200",
+      "minecraft:sheep": "2025-04-20 18:31:10 +0200"
     },
     "done": false
   },
@@ -3867,6 +3869,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-04-20 01:45:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-20 01:52:06 +0200"
@@ -3879,9 +3887,21 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/choice_scarf": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_scarf": "2025-04-20 01:45:55 +0200"
+      "has_rail": "2025-04-20 18:59:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-20 18:59:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-20 18:59:40 +0200"
     },
     "done": true
   },
