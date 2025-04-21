@@ -468,6 +468,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-13 22:35:15 +0200",
       "minecraft:piglin": "2025-04-18 23:34:17 +0200",
+      "minecraft:zombified_piglin": "2025-04-21 20:30:12 +0200",
       "minecraft:enderman": "2025-04-20 20:11:07 +0200",
       "minecraft:witch": "2025-04-20 02:05:51 +0200",
       "minecraft:spider": "2025-04-13 22:50:57 +0200",
@@ -696,8 +697,10 @@
       "chicken": "2025-04-12 02:42:05 +0200",
       "bread": "2025-04-12 02:54:05 +0200",
       "cooked_chicken": "2025-04-15 20:18:21 +0200",
+      "rotten_flesh": "2025-04-21 19:36:00 +0200",
       "cooked_mutton": "2025-04-12 02:33:33 +0200",
       "cooked_beef": "2025-04-12 03:04:08 +0200",
+      "chorus_fruit": "2025-04-21 19:27:06 +0200",
       "baked_potato": "2025-04-15 20:03:41 +0200",
       "porkchop": "2025-04-20 01:59:23 +0200"
     },
@@ -3902,6 +3905,36 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-20 18:59:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-04-21 20:24:12 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-04-21 20:35:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-21 19:26:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-21 20:24:12 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/eject_button": {
+    "criteria": {
+      "has_piston": "2025-04-21 19:25:58 +0200"
     },
     "done": true
   },
