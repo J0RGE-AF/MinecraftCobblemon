@@ -3908,17 +3908,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
+  "cobblemon:recipes/held/eject_button": {
     "criteria": {
-      "minecraft:woods": "2025-04-21 20:24:12 +0200"
+      "has_piston": "2025-04-21 19:25:58 +0200"
     },
-    "done": false
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:black": "2025-04-21 20:35:08 +0200"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
@@ -3926,15 +3920,33 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-04-21 20:24:12 +0200"
+    },
+    "done": false
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-21 20:24:12 +0200"
     },
     "done": true
   },
-  "cobblemon:recipes/held/eject_button": {
+  "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "has_piston": "2025-04-21 19:25:58 +0200"
+      "minecraft:black": "2025-04-21 20:35:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-04-21 21:03:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-21 20:48:48 +0200"
     },
     "done": true
   },
