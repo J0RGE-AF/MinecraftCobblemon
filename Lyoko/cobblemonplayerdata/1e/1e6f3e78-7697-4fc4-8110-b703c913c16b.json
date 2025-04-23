@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 80,
+    "totalBattleVictoryCount": 83,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 80,
+    "totalPvWBattleVictoryCount": 83,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -23,7 +23,7 @@
       "steel": 1,
       "rock": 1,
       "flying": 1,
-      "dark": 1
+      "dark": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:wingull": 1,
@@ -38,7 +38,7 @@
       "cobblemon:gossifleur": 3,
       "cobblemon:pachirisu": 1,
       "cobblemon:drowzee": 1,
-      "cobblemon:pidove": 2,
+      "cobblemon:pidove": 3,
       "cobblemon:vivillon": 2,
       "cobblemon:snubbull": 2,
       "cobblemon:wooloo": 4,
@@ -66,7 +66,8 @@
       "cobblemon:lechonk": 1,
       "cobblemon:flaaffy": 1,
       "cobblemon:bunnelby": 4,
-      "cobblemon:dubwool": 1
+      "cobblemon:dubwool": 1,
+      "cobblemon:yamper": 1
     },
     "aspectsCollected": {
       "cobblemon:teddiursa": [
@@ -89,6 +90,9 @@
         "female"
       ],
       "cobblemon:infernape": [
+        "male"
+      ],
+      "cobblemon:zorua": [
         "male"
       ]
     }

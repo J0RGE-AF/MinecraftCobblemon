@@ -1567,6 +1567,9 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "net_ball": "2025-04-15 20:31:56 +0200",
+      "dive_ball": "2025-04-23 12:00:52 +0200",
+      "lure_ball": "2025-04-23 12:00:52 +0200",
+      "ancient_poke_ball": "2025-04-23 12:02:56 +0200",
       "poke_ball": "2025-04-13 22:42:13 +0200"
     },
     "done": false
@@ -3947,6 +3950,66 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-04-21 21:03:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-23 10:56:26 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/ancient_poke_rod": {
+    "criteria": {
+      "has_ball": "2025-04-23 12:02:56 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "lure_ball": "2025-04-23 12:00:52 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-23 11:56:53 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/lure_rod": {
+    "criteria": {
+      "has_ball": "2025-04-23 12:00:52 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:craft_ancient_balls": {
+    "criteria": {
+      "ancient_poke_ball": "2025-04-23 12:02:56 +0200"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/dive_rod": {
+    "criteria": {
+      "has_ball": "2025-04-23 12:00:52 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 11:33:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-04-23 13:26:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-23 11:33:56 +0200"
     },
     "done": true
   },
