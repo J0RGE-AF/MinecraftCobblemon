@@ -21,6 +21,7 @@
       "minecraft:frozen_peaks": "2025-04-12 02:45:18 +0200",
       "minecraft:old_growth_birch_forest": "2025-04-14 15:41:06 +0200",
       "minecraft:ocean": "2025-04-14 15:50:50 +0200",
+      "minecraft:jungle": "2025-04-24 12:09:05 +0200",
       "minecraft:cherry_grove": "2025-04-12 02:13:34 +0200",
       "minecraft:sunflower_plains": "2025-04-16 12:00:02 +0200",
       "minecraft:grove": "2025-04-12 02:47:58 +0200",
@@ -934,6 +935,7 @@
       "minecraft:ghast": "2025-04-24 02:42:35 +0200",
       "minecraft:hoglin": "2025-04-16 16:03:35 +0200",
       "minecraft:shulker": "2025-04-19 02:23:39 +0200",
+      "minecraft:cave_spider": "2025-04-24 12:53:39 +0200",
       "minecraft:piglin": "2025-04-16 16:03:06 +0200",
       "minecraft:breeze": "2025-04-15 17:32:51 +0200",
       "minecraft:enderman": "2025-04-15 19:50:17 +0200",
@@ -5089,6 +5091,42 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-04-24 09:04:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-04-24 12:09:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-24 13:09:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 12:24:17 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/protective_pads": {
+    "criteria": {
+      "has_wool": "2025-04-24 12:24:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 12:24:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-04-24 12:24:17 +0200"
     },
     "done": true
   },
