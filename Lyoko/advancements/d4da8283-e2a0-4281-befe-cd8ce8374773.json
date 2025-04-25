@@ -927,25 +927,28 @@
       "minecraft:blaze": "2025-04-16 16:10:54 +0200",
       "minecraft:pillager": "2025-04-24 01:06:52 +0200",
       "minecraft:skeleton": "2025-04-14 16:37:45 +0200",
+      "minecraft:bogged": "2025-04-15 17:35:00 +0200",
+      "minecraft:ghast": "2025-04-24 02:42:35 +0200",
+      "minecraft:hoglin": "2025-04-16 16:03:35 +0200",
+      "minecraft:breeze": "2025-04-15 17:32:51 +0200",
+      "minecraft:vindicator": "2025-04-25 08:04:35 +0200",
+      "minecraft:magma_cube": "2025-04-23 03:27:42 +0200",
+      "minecraft:spider": "2025-04-14 16:45:31 +0200",
+      "minecraft:creeper": "2025-04-15 10:56:30 +0200",
+      "minecraft:wither": "2025-04-23 04:13:32 +0200",
+      "minecraft:evoker": "2025-04-25 08:32:03 +0200",
       "minecraft:zombified_piglin": "2025-04-15 21:42:50 +0200",
       "minecraft:witch": "2025-04-21 21:09:10 +0200",
       "minecraft:wither_skeleton": "2025-04-16 16:14:55 +0200",
       "minecraft:husk": "2025-04-15 17:40:58 +0200",
-      "minecraft:bogged": "2025-04-15 17:35:00 +0200",
-      "minecraft:ghast": "2025-04-24 02:42:35 +0200",
-      "minecraft:hoglin": "2025-04-16 16:03:35 +0200",
       "minecraft:shulker": "2025-04-19 02:23:39 +0200",
       "minecraft:cave_spider": "2025-04-24 12:53:39 +0200",
       "minecraft:piglin": "2025-04-16 16:03:06 +0200",
-      "minecraft:breeze": "2025-04-15 17:32:51 +0200",
       "minecraft:enderman": "2025-04-15 19:50:17 +0200",
       "minecraft:silverfish": "2025-04-16 17:15:26 +0200",
-      "minecraft:magma_cube": "2025-04-23 03:27:42 +0200",
       "minecraft:endermite": "2025-04-23 06:09:06 +0200",
-      "minecraft:spider": "2025-04-14 16:45:31 +0200",
+      "minecraft:vex": "2025-04-25 08:38:25 +0200",
       "minecraft:zombie": "2025-04-12 02:51:17 +0200",
-      "minecraft:creeper": "2025-04-15 10:56:30 +0200",
-      "minecraft:wither": "2025-04-23 04:13:32 +0200",
       "minecraft:zombie_villager": "2025-04-15 19:55:11 +0200"
     },
     "done": false
@@ -5145,6 +5148,36 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-04-25 05:31:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-25 07:37:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-25 07:37:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-25 07:37:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-25 08:01:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-25 08:43:08 +0200"
     },
     "done": true
   },
