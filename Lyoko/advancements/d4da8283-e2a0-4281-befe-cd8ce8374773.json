@@ -5187,5 +5187,11 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2025-04-26 07:30:43 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
