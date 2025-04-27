@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-04-27 05:36:02 +0200",
       "minecraft:plains": "2025-04-23 07:49:58 +0200"
     },
     "done": false
@@ -74,6 +75,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-23 23:20:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-27 05:36:02 +0200"
     },
     "done": true
   },
