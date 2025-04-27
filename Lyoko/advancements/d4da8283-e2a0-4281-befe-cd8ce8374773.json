@@ -944,6 +944,7 @@
       "minecraft:creeper": "2025-04-15 10:56:30 +0200",
       "minecraft:wither": "2025-04-23 04:13:32 +0200",
       "minecraft:evoker": "2025-04-25 08:32:03 +0200",
+      "minecraft:phantom": "2025-04-27 09:09:39 +0200",
       "minecraft:zombified_piglin": "2025-04-15 21:42:50 +0200",
       "minecraft:witch": "2025-04-21 21:09:10 +0200",
       "minecraft:wither_skeleton": "2025-04-16 16:14:55 +0200",
@@ -5420,6 +5421,36 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-04-27 04:58:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-27 08:26:04 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 08:29:08 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_ice": "2025-04-27 08:29:08 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-04-27 09:09:40 +0200"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-04-27 09:09:40 +0200"
     },
     "done": true
   },
