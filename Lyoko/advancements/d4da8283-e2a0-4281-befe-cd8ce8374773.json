@@ -5472,5 +5472,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-04-29 15:33:44 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
