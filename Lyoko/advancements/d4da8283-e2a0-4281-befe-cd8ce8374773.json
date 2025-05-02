@@ -664,6 +664,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_pinap_berry": "2025-05-02 17:30:52 +0200",
       "obtain_oran_berry": "2025-04-12 02:42:17 +0200",
       "obtain_chesto_berry": "2025-04-14 16:22:25 +0200"
     },
@@ -5518,6 +5519,36 @@
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-04-30 12:31:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-02 17:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-02 17:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 17:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 17:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 17:02:08 +0200"
     },
     "done": true
   },
