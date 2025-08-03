@@ -666,6 +666,7 @@
     "criteria": {
       "obtain_pinap_berry": "2025-05-02 17:30:52 +0200",
       "obtain_oran_berry": "2025-04-12 02:42:17 +0200",
+      "obtain_wacan_berry": "2025-08-03 18:14:54 +0200",
       "obtain_chesto_berry": "2025-04-14 16:22:25 +0200"
     },
     "done": false
@@ -3957,7 +3958,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:siamese": "2025-04-20 18:04:39 +0200",
-      "minecraft:jellie": "2025-04-17 13:23:12 +0200"
+      "minecraft:jellie": "2025-04-17 13:23:12 +0200",
+      "minecraft:black": "2025-08-03 18:16:25 +0200"
     },
     "done": false
   },
